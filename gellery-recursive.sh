@@ -5,6 +5,7 @@
 #
 # Ejecuta: gellery-recursive.sh
 #
+#  https://gist.github.com/uGeek/95c48211636b638a2a0cab8ac0c611bc
 
 
 OLDIFS=$IFS
